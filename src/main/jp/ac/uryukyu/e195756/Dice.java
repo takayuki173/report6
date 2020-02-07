@@ -1,8 +1,8 @@
 package jp.ac.uryukyu.e195756;
 
 public class Dice {
-    int money1 = 10;
-    int money2 = 10;
+    int money1 = 1000;
+    int money2 = 1000;
     void method(){
         int score1;
         int score2;
